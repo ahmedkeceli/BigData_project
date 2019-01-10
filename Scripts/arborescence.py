@@ -35,25 +35,23 @@ def Create_Arborescence(path):
     #new_path = os.getcwd()
     #print("Vous êtes maintenant dans %s " % new_path)
     
-    dossier_script = os.path.join("Scripts")
     dossier_in = os.path.join("Inputs")
     dossier_out = os.path.join("Outputs")
-    os.makedirs(dossier_script)
     os.makedirs(dossier_in)
     os.makedirs(dossier_out)
     
-def Create_Species_Dir():
+def Create_Species_Dir(path):
     
     liste_arg = Get_arg(sys.argv)
     print(liste_arg)
     #~ print(Get_Path())
     if len(liste_arg) > 2:
         specie_name = liste_arg[1]
-        os.chdir("../Outputs")
+        os.chdir(path+"/Outputs")
         dossier_espece = os.path.join(specie_name)
         os.makedirs(dossier_espece)
         #Nous sommes dans SCRIPTS et souhaitons nous rendre dans les INPUTS
-        os.chdir("../Inputs")
+        os.chdir(path+"/Inputs")
         #~ print(Get_Path())
         #Crée un répertoire pour l'espèce voulue
         #Le nom est donné lors de l'execution
@@ -113,13 +111,13 @@ def main():
                 i = i+1
             Move_file(liste_fic)
         else:
-            os.chdir("../Scripts")
-            Create_Species_Dir()
+            #os.chdir("../Scripts")
+            Create_Species_Dir(a+"/DSW")
     else:
         Create_Arborescence(a)
-        os.chdir(a+"/DSW/Scripts")
-        Create_Species_Dir()
-    Move_Py(a)
+        #os.chdir(a+"/DSW/Scripts")
+        Create_Species_Dir(a+"/DSW")
+    #Move_Py(a)
 
 
 main()

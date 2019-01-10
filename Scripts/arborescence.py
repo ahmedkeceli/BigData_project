@@ -95,7 +95,7 @@ def Liste_File(path):
 def Move_Py(path):
     for fic in os.listdir(path):
         if fic.split(".")[-1] == "py":
-            subprocess.call(["mv",path+"/"+fic,path+"/DSW/Scripts/"+fic])
+            subprocess.call(["cp",path+"/"+fic,path+"/DSW/Scripts/"+fic])
     return
     
 

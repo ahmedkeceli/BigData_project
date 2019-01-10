@@ -3,14 +3,12 @@ import os,sys
 
 ###### prends en entre un csv contig et le transforme en requetes SQL pour remplir la table summary per gene #######
 
-infile = sys.argv[1]
-
-espece = sys.argv[2]
-
-gene_table = open("DSW/Outputs/" + espece + "/contigSQL.sql", "w")
+espece = sys.argv[1]
+print(os.getcwd())
+gene_table = open("../DSW/Outputs/" + espece + "/contigSQL.sql", "w")
 #gene_table.write("gene_id\tlength\tstart\tstop\tstrand\tname\tsupercontig\n")
 
-with open(infile,'r') as gene_file:
+with open("../DSW/Outputs/" + espece + "/contig.csv",'r') as gene_file:
     
 	line = gene_file.readline()
 	line = gene_file.readline()

@@ -6,13 +6,12 @@ import os, sys
 
 
 
-infile = sys.argv[1]
-espece = sys.argv[2]
+espece = sys.argv[1]
 
-gene_table = open("DSW/Outputs/" + espece + "/proteinSQL.sql", "w")
+gene_table = open("../DSW/Outputs/" + espece + "/proteinSQL.sql", "w")
 #gene_table.write("gene_id\tlength\tstart\tstop\tstrand\tname\tsupercontig\n")
 
-with open(infile,'r') as gene_file:
+with open("../DSW/Outputs/" + espece + "/protein_seq.csv",'r') as gene_file:
     
 	line = gene_file.readline()
 	line = gene_file.readline()

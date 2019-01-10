@@ -48,7 +48,6 @@ def pfamParser(infile):
     # Chemin vers les outputs
     path_LIST = infile.split("/")[:-1]
     path_LIST[-2] = "Outputs"
-    path_LIST += ["Tables_SQL"]
     pfam_file = "/".join(path_LIST + ["pfam.csv"])
     p2g_file = "/".join(path_LIST + ["pfam2gene.csv"])
 

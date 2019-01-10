@@ -35,7 +35,7 @@ def main():
                     if f_type == "fasta" or f_type == "fa":
                         # Ouverture du fichier fasta
                         try:
-                            f = open("../Inputs/"+species+"/"+f_name, "r")
+                            f = open("../DSW/Inputs/"+species+"/"+f_name, "r")
                         except IOError:
                             print("L'ouverture du fichier "+f_name+"  a échoué.")
                             sys.exit(1)
@@ -43,7 +43,7 @@ def main():
                         header = f.readline().rstrip("\n")
                         # Cas 1 : .fasta contient 4 pipe "|" min -> Contig
                         if header.count("|") > 3:
-                            contigParser("../Inputs/"+species+"/"+f_name)
+                            contigParser("../DSW/Inputs/"+species+"/"+f_name)
                         
                         # Sinon : correspond à un ORF
                         else:
@@ -54,22 +54,22 @@ def main():
                                     is_nucl = False
                             # Cas 2 : pas que des nucléotide -> protein
                             if not is_nucl:
-                                proteinseqParser("../Inputs/"+species+"/"+f_name)
+                                proteinseqParser("../DSW/Inputs/"+species+"/"+f_name)
                             
                             # Sinon : correspond à un acide nucléique
                             else:
                                 # Cas 3 : Un transcript commence par ">BC1T..."
                                 if header[:5] == ">BC1T":
-                                    transcriptseqParser("../Inputs/"+species+"/"+f_name)
+                                    transcriptseqParser("../DSW/Inputs/"+species+"/"+f_name)
                                 # Cas 4 : Sinon, c'est un gène
                                 else:
-                                    geneseqParser("../Inputs/"+species+"/"+f_name)
+                                    geneseqParser("../DSW/Inputs/"+species+"/"+f_name)
                         
                     # Si le fichier est un .txt -> Il contient des infos sur gènes, contigs ou pfam
                     elif f_type == "txt":
                         # Ouverture du fichier text
                         try:
-                            f = open("../Inputs/"+species+"/"+f_name, "r")
+                            f = open("../DSW/Inputs/"+species+"/"+f_name, "r")
                         except IOError:
                             print("L'ouverture du fichier a échoué.")
                             sys.exit(1)
@@ -77,15 +77,16 @@ def main():
                         header = f.readline().rstrip("\n")
                         # Cas 1 : summary_per_gene
                         if header == "LOCUS	SYMBOL	SYNOYM	LENGTH	START	STOP	STRAND	NAME	CHROMOSOME	GENOME ONTOLOGY	ENZYME CODE	KEGG	PATHWAY	REACTION	COG	PFAM	OPERON":
-                            geneParser("../Inputs/"+species+"/"+f_name)
+                            geneParser("../DSW/Inputs/"+species+"/"+f_name)
                         # Cas 2 : pfam2gene
                         elif header == "PROTEIN_NAME	LOCUS	GENE_CONTIG	PFAM_ACC	PFAM_NAME	PFAM_DESCRIPTION	PFAM_START	PFAM_STOP	LENGTH	PFAM_SCORE	PFAM_EXPECTED":
-                            pfamParser("../Inputs/"+species+"/"+f_name)
+                            pfamParser("../DSW/Inputs/"+species+"/"+f_name)
                         # Sinon : on s'en fout
                     
                     # Fermeture du fichier
                     f.close()
                     
                     # Supression du fichier une fois processed en .csv
-                    os.remove("../Inputs/"+species+"/"+f_name)
-                        
+                    os.remove("../DSW/Inputs/"+species+"/"+f_name)
+
+main()

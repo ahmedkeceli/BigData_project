@@ -12,7 +12,7 @@ def contigParser(infile):
     # Créer le chemin vers la sortie
     path_LIST = infile.split("/")[:-1]
     path_LIST[-2] = "Outputs"
-    path_LIST += ["Tables_SQL", "contig.csv"]
+    path_LIST += ["contig.csv"]
     outfile = "/".join(path_LIST)
     
     # Ecriture de l'output

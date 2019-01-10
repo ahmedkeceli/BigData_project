@@ -117,6 +117,7 @@ def main():
         Create_Arborescence(a)
         #os.chdir(a+"/DSW/Scripts")
         Create_Species_Dir(a+"/DSW")
+    os.chdir("../../../Scripts")
     #Move_Py(a)
 
 

@@ -5,8 +5,9 @@ import os, sys
 
 
 infile = sys.argv[1]
+espece = sys.argv[2]
 
-gene_table = open("Results/transcriptSQL.sql", "w")
+gene_table = open("DSW/Outputs/" + espece + "/transcriptSQL.sql", "w")
 #gene_table.write("gene_id\tlength\tstart\tstop\tstrand\tname\tsupercontig\n")
 
 with open(infile,'r') as gene_file:

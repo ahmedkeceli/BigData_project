@@ -7,8 +7,9 @@ import os, sys
 
 
 infile = sys.argv[1]
+espece = sys.argv[2]
 
-gene_table = open("Results/proteinSQL.sql", "w")
+gene_table = open("DSW/Outputs/" + espece + "/proteinSQL.sql", "w")
 #gene_table.write("gene_id\tlength\tstart\tstop\tstrand\tname\tsupercontig\n")
 
 with open(infile,'r') as gene_file:

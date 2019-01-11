@@ -43,7 +43,6 @@ def Create_Arborescence(path):
 def Create_Species_Dir(path):
     
     liste_arg = Get_arg(sys.argv)
-    print(liste_arg)
     #~ print(Get_Path())
     if len(liste_arg) > 2:
         specie_name = liste_arg[1]

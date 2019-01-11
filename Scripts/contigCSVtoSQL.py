@@ -4,7 +4,6 @@ import os,sys
 ###### prends en entre un csv contig et le transforme en requetes SQL pour remplir la table summary per gene #######
 
 espece = sys.argv[1]
-print(os.getcwd())
 gene_table = open("../DSW/Outputs/" + espece + "/contigSQL.sql", "w")
 #gene_table.write("gene_id\tlength\tstart\tstop\tstrand\tname\tsupercontig\n")
 

@@ -7,10 +7,17 @@ Created on Thu Jan 10 22:52:11 2019
 """
 
 import os, sys
+
+species = sys.argv[1]
+
+# Création de la base de données si nécessaire
+if not os.path.isdir("../DSW/Outputs/"+species):
+    os.system("./Scripts/CreateDB.sh "+species)
+
 import arborescence
 import updateCSV
 
-species = sys.argv[1]
+
 if os.path.isfile("../DSW/Outputs/"+species+"/contig.csv"):
     import contigCSVtoSQL
 
@@ -34,3 +41,6 @@ if os.path.isfile("../DSW/Outputs/"+species+"/transcript_seq.csv"):
 print(os.getcwd())
 
 
+
+# Enrichir la Database
+os.system("./enrichDB.sh "+species)

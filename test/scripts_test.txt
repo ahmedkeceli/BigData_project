@@ -1,0 +1,14 @@
+# Botrytis : Chr215
+
+python Scripts/master.py Botrytis /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/CHR215_genome.fasta /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr215_P2G.txt /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/CHR215_prot.fa /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr215_sumup.txt /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/CHR215_TRAN.fa
+
+# Botrytis : Chr1
+
+python Scripts/master.py Botrytis /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr1_genes.fasta /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr1_pfam2gene.txt /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr1_prot.fasta /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr1_summary_per_gene.txt /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr1_transcript.fasta
+
+
+
+# Botrytis : Chr244
+
+python Scripts/master.py Botrytis /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr244_gene_summary.txt /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr244_genes.fa /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr244_p2g.txt /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr244_prot.fa /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/Chr244_transcript.fa /Users/karl-stephan.baczkowski/Documents/BigData/BigData_project/test/Botrytis/qqContigs.fasta
+

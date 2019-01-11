@@ -1,0 +1,13 @@
+PROTEIN_NAME	LOCUS	GENE_CONTIG	PFAM_ACC	PFAM_NAME	PFAM_DESCRIPTION	PFAM_START	PFAM_STOP	LENGTH	PFAM_SCORE	PFAM_EXPECTED
+hypothetical protein similar to dehydrogenase	BC1G_16001	Botrytis cinerea supercontig 1.244	PF00107.18	ADH_zinc_N	Zinc-binding dehydrogenase	9382	9789	408	62.79999923706055	1.0999999722265076E-15
+hypothetical protein similar to dehydrogenase	BC1G_16001	Botrytis cinerea supercontig 1.244	PF08240.4	ADH_N	Alcohol dehydrogenase GroES-like domain	9910	10164	255	23.100000381469727	3.999999989900971E-6
+hypothetical protein similar to dehydrogenase	BC1G_16001	Botrytis cinerea supercontig 1.244	PF08240.4	ADH_N	Alcohol dehydrogenase GroES-like domain	9910	10164	255	23.100000381469727	3.999999989900971E-6
+hypothetical protein similar to dehydrogenase	BC1G_16001	Botrytis cinerea supercontig 1.244	PF00107.18	ADH_zinc_N	Zinc-binding dehydrogenase	9382	9789	408	62.79999923706055	1.0999999722265076E-15
+hypothetical protein similar to dehydrogenase	BC1G_16001	Botrytis cinerea supercontig 1.244	PF00107.18	ADH_zinc_N	Zinc-binding dehydrogenase	9382	9789	408	55.709999084472656	1.599999971922672E-13
+hypothetical protein similar to dehydrogenase	BC1G_16001	Botrytis cinerea supercontig 1.244	PF08240.4	ADH_N	Alcohol dehydrogenase GroES-like domain	9910	10164	255	22.489999771118164	1.2000000424450263E-5
+hypothetical protein similar to dehydrogenase	BC1G_16001	Botrytis cinerea supercontig 1.244	PF00107.21	ADH_zinc_N	Zinc-binding dehydrogenase	9418	9753	336	52.9	2.3E-14
+retinol dehydrogenase 12	BC1G_16002	Botrytis cinerea supercontig 1.244	PF00106.17	adh_short	short chain dehydrogenase	22229	22747	519	16.700000762939453	4.400000079840538E-7
+retinol dehydrogenase 12	BC1G_16002	Botrytis cinerea supercontig 1.244	PF00106.17	adh_short	short chain dehydrogenase	22229	22747	519	16.700000762939453	4.400000079840538E-7
+retinol dehydrogenase 12	BC1G_16002	Botrytis cinerea supercontig 1.244	PF00106.17	adh_short	short chain dehydrogenase	22229	22714	486	20.670000076293945	5.399999736255268E-7
+retinol dehydrogenase 12	BC1G_16002	Botrytis cinerea supercontig 1.244	PF08659.5	KR	KR domain	22229	22549	321	33.0	4.0E-8
+retinol dehydrogenase 12	BC1G_16002	Botrytis cinerea supercontig 1.244	PF00106.20	adh_short	short chain dehydrogenase	22229	22738	510	70.7	1.1E-19

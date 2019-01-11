@@ -1,0 +1,527 @@
+LOCUS	SYMBOL	SYNOYM	LENGTH	START	STOP	STRAND	NAME	CHROMOSOME	GENOME ONTOLOGY	ENZYME CODE	KEGG	PATHWAY	REACTION	COG	PFAM	OPERON
+BC1G_00001			519	39	557	-	predicted protein	1										
+BC1G_00002			1074	2312	3385	-	predicted protein	1										
+BC1G_00003			1826	4181	6006	+	conserved hypothetical protein	1								PF00657.17		
+BC1G_00004			1412	6330	7741	+	copper methylamine oxidase precursor	1								PF02727.11,PF02728.8,PF02727.8,PF01179.15,PF02728.11		
+BC1G_00005			2034	10016	12049	-	predicted protein	1										
+BC1G_00006			108	14754	14861	-	conserved hypothetical protein	1										
+BC1G_00007			222	15248	15469	+	predicted protein	1										
+BC1G_00008			1215	15916	17130	+	receptor expression-enhancing protein 4	1								PF03134.14,PF03134.11		
+BC1G_00009			1622	18030	19651	-	conserved hypothetical protein	1								PF01266.16,PF01266.19		
+BC1G_00010			1510	21637	23146	+	methylthioribose-1-phosphate isomerase	1								PF01008.12,PF01008.9		
+BC1G_00011			1765	25105	26869	-	predicted protein	1								PF00505.11,PF00505.14,PF09011.5		
+BC1G_00012			1925	27723	29647	-	predicted protein	1								PF00536.25,PF07647.12,PF07647.9,PF00505.11,PF00505.14,PF09011.5,PF00536.22		
+BC1G_00013			186	29978	30163	+	predicted protein	1										
+BC1G_00014			324	30826	31149	+	predicted protein	1										
+BC1G_00015			366	31667	32032	-	predicted protein	1										
+BC1G_00016			135	32381	32515	+	predicted protein	1										
+BC1G_00017			305	33099	33403	+	predicted protein	1										
+BC1G_00018			1264	34196	35459	+	predicted protein	1										
+BC1G_00019			665	35542	36206	-	predicted protein	1										
+BC1G_00020			1681	36635	38315	-	predicted protein	1								PF07247.4,PF07247.7		
+BC1G_00021			2274	39296	41569	+	conserved hypothetical protein	1								PF06985.6,PF06985.3		
+BC1G_00022			596	42401	42996	-	predicted protein	1										
+BC1G_00023			660	45161	45820	-	predicted protein	1										
+BC1G_00024			270	46355	46624	+	predicted protein	1										
+BC1G_00025			191	47006	47196	-	predicted protein	1										
+BC1G_00026			957	48159	49115	-	predicted protein	1										
+BC1G_00027			825	50711	51535	+	phospho-2-dehydro-3-deoxyheptonate aldolase	1								PF00793.12,PF00793.15		
+BC1G_00028			1254	52455	53708	-	hypothetical protein similar to Ara2p	1								PF00248.13,PF00248.16		
+BC1G_00029			643	54184	54826	-	predicted protein	1										
+BC1G_00030			159	56131	56289	+	predicted protein	1										
+BC1G_00031			2601	57965	60565	+	hypothetical protein similar to zf-C3HC4 type zinc finger	1										
+BC1G_00032			895	61546	62440	-	predicted protein	1								PF06220.4		
+BC1G_00033			1306	62755	64060	+	hypothetical protein similar to HSPC108	1								PF01145.17,PF01145.20		
+BC1G_00034			1488	64522	66009	-	conserved hypothetical protein	1										
+BC1G_00035			3379	66820	70198	-	conserved hypothetical protein	1								PF09324.5,PF12783.2		
+BC1G_00036			653	70509	71161	+	ubiquitin-conjugating enzyme	1								PF00179.18,PF00179.21		
+BC1G_00037			1085	71511	72595	-	predicted protein	1										
+BC1G_00038			2713	73206	75918	+	predicted protein	1										
+BC1G_00039			318	77399	77716	-	predicted protein	1										
+BC1G_00040			207	78124	78330	+	predicted protein	1										
+BC1G_00041			770	78718	79487	+	predicted protein	1										
+BC1G_00042			207	81656	81862	+	predicted protein	1										
+BC1G_00043			489	82540	83028	+	conserved hypothetical protein	1										
+BC1G_00044			556	88375	88930	-	predicted protein	1								PF09219.1,PF01172.13,PF01172.10		
+BC1G_00045			2037	89735	91771	-	conserved hypothetical protein	1								PF07047.7,PF07047.4		
+BC1G_00046			3608	92341	95948	+	serine/threonine-protein kinase 6	1								PF00069.17,PF07714.9,PF07714.12,PF00069.20,PF00659.13		
+BC1G_00047			1980	97000	98979	-	phosphate permease PHO89 /Pi cotransporter PHO89)	1								PF01384.12,PF01384.15		
+BC1G_00048			2329	102576	104904	+	tyrosinase	1								PF00264.15,PF00264.12		
+BC1G_00049			1020	105872	106891	+	hypothetical protein similar to thermophilic reversible gamma-resorcylate decarboxylase	1								PF04909.6,PF04909.9		
+BC1G_00050			1567	108063	109629	-	hypothetical protein similar to salicylate hydroxylase	1								PF00890.19,PF13450.1,PF01494.14,PF01266.16,PF01494.11,PF00070.22,PF01266.19		
+BC1G_00051			2386	110519	112904	+	conserved hypothetical protein	1								PF04082.13,PF00172.10,PF00172.13,PF04082.10		
+BC1G_00052			1129	113191	114319	-	conserved hypothetical protein	1								PF12051.3		
+BC1G_00053			5248	117177	122424	-	hypothetical protein similar to translin associated factor X	1								PF01997.8,PF01997.11		
+BC1G_00054			638	122915	123552	+	GPI mannosyltransferase 1	1										
+BC1G_00055			339	124091	124429	+	GPI mannosyltransferase 1	1								PF05007.8		
+BC1G_00056			1717	124981	126697	-	conserved hypothetical protein	1										
+BC1G_00057			1291	128334	129624	-	conserved hypothetical protein	1								PF08588.5,PF08588.2		
+BC1G_00058			3193	130078	133270	-	hypothetical protein similar to regulatory protein ral2	1								PF13418.1		
+BC1G_00059			942	134799	135740	-	peroxiredoxin-6	1								PF00578.16,PF10417.4,PF08534.2,PF08534.5,PF00578.13		
+BC1G_00060			2017	137623	139639	+	hypothetical protein similar to fructose facilitator	1								PF07690.8,PF07690.11		
+BC1G_00061			713	140600	141312	+	protein Mpv17	1								PF04117.7,PF04117.4		
+BC1G_00062			907	142308	143214	+	eukaryotic translation initiation factor 4E-2	1								PF01652.13,PF01652.10		
+BC1G_00063			1421	144153	145573	-	2-succinylbenzoate-CoA ligase	1								PF00501.20,PF00501.23		
+BC1G_00064			1046	145996	147041	+	hypothetical protein similar to Uvi31p	1								PF01722.10,PF01722.13		
+BC1G_00065			750	147437	148186	-	hypothetical protein similar to oxidoreductase	1								PF03959.8,PF03959.5		
+BC1G_00066			105	151446	151550	+	predicted protein	1										
+BC1G_00067			324	152589	152912	+	predicted protein	1										
+BC1G_00068			306	153436	153741	-	predicted protein	1										
+BC1G_00069			2356	154242	156597	-	aspartyl-tRNA synthetase	1								PF00152.12,PF01336.20,PF01336.17,PF00152.15		
+BC1G_00070			105	158031	158135	+	predicted protein	1										
+BC1G_00071			2226	158709	160934	+	hypothetical protein similar to clathrin binding protein	1								PF07651.11,PF01417.15,PF07651.8,PF01417.12		
+BC1G_00072			1104	161308	162411	-	RNA polymerase II transcription factor B subunit 3	1								PF00097.17,PF06391.8,PF06391.5,PF00097.20		
+BC1G_00073			789	162682	163470	+	hypothetical protein similar to nudC protein	1								PF04969.11,PF04969.8		
+BC1G_00074			1056	163761	164816	-	conserved hypothetical protein	1								PF05817.9		
+BC1G_00075			3020	166444	169463	-	pisatin demethylase	1								PF00067.14,PF00067.17		
+BC1G_00076			932	170576	171507	-	predicted protein	1										
+BC1G_00077			1180	172493	173672	+	conserved hypothetical protein	1								PF02668.8,PF02668.11		
+BC1G_00078			2163	175430	177592	+	lipase 5	1								PF11815.3,PF01734.14,PF01734.17		
+BC1G_00079			1524	178221	179744	+	nicotinate phosphoribosyltransferase	1								PF04095.8,PF04095.11		
+BC1G_00080			768	181510	182277	-	predicted protein	1								PF13847.1,PF08242.4,PF08241.7,PF05891.7,PF05175.9,PF08241.4,PF13659.1,PF12847.2,PF13649.1,PF13489.1,PF01209.13,PF08242.7		
+BC1G_00081			2134	184227	186360	+	branched-chain-amino-acid aminotransferase, mitochondrial precursor	1								PF01063.14,PF01063.11		
+BC1G_00082			1951	186838	188788	-	calreticulin precursor	1								PF00262.10,PF00262.13		
+BC1G_00083			858	190014	190871	+	APAF1-interacting protein	1								PF00596.13,PF00596.16		
+BC1G_00084			1853	191736	193588	-	predicted protein	1										
+BC1G_00085			890	193936	194825	-	conserved hypothetical protein	1								PF09766.4		
+BC1G_00086			1294	195132	196425	+	hypothetical protein similar to ADE8 protein	1								PF00551.14,PF00551.11		
+BC1G_00087			1070	196712	197781	-	conserved hypothetical protein	1								PF11274.3		
+BC1G_00088			919	198492	199410	+	6,7-dimethyl-8-ribityllumazine synthase	1								PF00885.14,PF00885.11		
+BC1G_00089			2916	199819	202734	-	predicted protein	1										
+BC1G_00090			531	204515	205045	-	predicted protein	1										
+BC1G_00091			141	205940	206080	+	predicted protein	1										
+BC1G_00092			1513	209098	210610	-	hypothetical protein similar to cation diffusion facilitator 8	1								PF01545.16,PF01545.13		
+BC1G_00093			2202	213975	216176	+	transcriptional regulator CRZ1	1								PF00096.18,PF12874.2,PF13894.1,PF13465.1,PF00096.21		
+BC1G_00094			1192	216852	218043	-	hypothetical protein similar to toxD	1								PF00107.18,PF00107.21,PF08240.7,PF08240.4		
+BC1G_00095			439	218373	218811	-	predicted protein	1										
+BC1G_00096			7158	220990	228147	+	predicted protein	1										
+BC1G_00097			1590	229744	231333	+	conserved hypothetical protein	1								PF11927.3		
+BC1G_00098			780	232443	233222	-	conserved hypothetical protein	1								PF12697.2		
+BC1G_00099			864	237205	238068	+	conserved hypothetical protein	1								PF13921.1		
+BC1G_00100			1257	238802	240058	-	predicted protein	1								PF08241.7,PF08241.4		
+BC1G_00101			270	240477	240746	-	predicted protein	1										
+BC1G_00102			1667	241823	243489	-	predicted protein	1										
+BC1G_00103			1599	244588	246186	-	hypothetical protein similar to transposase	1								PF03221.11,PF05225.8,PF03184.14,PF03184.11,PF05225.11,PF13358.1		
+BC1G_00104			5367	246691	252057	+	predicted protein	1										
+BC1G_00105			1287	253486	254772	-	predicted protein	1										
+BC1G_00106			1544	255302	256845	-	predicted protein	1										
+BC1G_00107			309	260210	260518	+	predicted protein	1										
+BC1G_00108			236	261858	262093	+	predicted protein	1										
+BC1G_00109			852	262364	263215	-	conserved hypothetical protein	1								PF12138.3		
+BC1G_00110			366	265194	265559	-	predicted protein	1										
+BC1G_00111			1568	266147	267714	+	alpha-galactosidase A precursor	1								PF00652.14,PF02065.10,PF00652.17,PF02065.13		
+BC1G_00112			966	268227	269192	+	conserved hypothetical protein	1								PF05721.5,PF05721.8		
+BC1G_00113			327	269838	270164	+	predicted protein	1										
+BC1G_00114			727	273642	274368	+	predicted protein	1										
+BC1G_00115			437	277794	278230	-	predicted protein	1										
+BC1G_00116			279	279629	279907	-	predicted protein	1										
+BC1G_00117			427	281023	281449	+	predicted protein	1										
+BC1G_00118			933	282517	283449	+	conserved hypothetical protein	1										
+BC1G_00119			1039	285113	286151	+	conserved hypothetical protein	1								PF08547.4,PF08547.7		
+BC1G_00120			699	287711	288409	-	predicted protein	1										
+BC1G_00121			1484	291265	292748	-	argininosuccinate synthase	1								PF00764.14,PF00764.11		
+BC1G_00122			1765	293732	295496	-	tubulin beta chain	1								PF00091.20,PF03953.12,PF00091.17,PF03953.9		
+BC1G_00123			2247	295854	298100	+	ATP-binding cassette sub-family F member 3	1								PF00005.19,PF00005.22,PF12848.2		
+BC1G_00124			990	298432	299421	-	D-3-phosphoglycerate dehydrogenase	1								PF02826.14,PF02826.11		
+BC1G_00125			798	300105	300902	-	hypoxanthine guanine phosphoribosyltransferase	1								PF00156.22		
+BC1G_00126			1077	301860	302936	+	conserved hypothetical protein	1								PF00753.19,PF00753.22		
+BC1G_00127			165	305008	305172	+	predicted protein	1										
+BC1G_00128			3083	306625	309707	+	K(+)/H(+) antiporter 1	1								PF00999.13,PF00999.16		
+BC1G_00129			830	310495	311324	+	predicted protein	1										
+BC1G_00130			1962	316380	318341	-	conserved hypothetical protein	1										
+BC1G_00131			657	319345	320001	+	predicted protein	1										
+BC1G_00132			386	321222	321607	-	predicted protein	1										
+BC1G_00133			222	325373	325594	-	predicted protein	1										
+BC1G_00134			633	326699	327331	-	predicted protein	1										
+BC1G_00135			632	327679	328310	+	predicted protein	1										
+BC1G_00136			213	330620	330832	+	predicted protein	1										
+BC1G_00137			2737	332085	334821	-	hypothetical protein similar to phosphatase activator	1										
+BC1G_00138			2186	336015	338200	-	laccase precursor	1								PF07732.10,PF07731.9,PF00394.17,PF07732.7,PF07731.6,PF00394.14		
+BC1G_00139			1118	338358	339475	+	predicted protein	1										
+BC1G_00140			568	340693	341260	-	predicted protein	1										
+BC1G_00141			2095	342391	344485	-	predicted protein	1										
+BC1G_00142			765	345151	345915	-	conserved hypothetical protein	1										
+BC1G_00143			1155	346356	347510	+	2,4-dienoyl-CoA reductase, mitochondrial precursor	1								PF00106.17,PF13561.1,PF00106.20		
+BC1G_00144			787	347962	348748	-	conserved hypothetical protein	1										
+BC1G_00145			669	349897	350565	-	conserved hypothetical protein	1										
+BC1G_00146			123	351134	351256	+	predicted protein	1										
+BC1G_00147			177	351836	352012	+	predicted protein	1										
+BC1G_00148			453	355015	355467	-	predicted protein	1										
+BC1G_00149			378	356106	356483	+	predicted protein	1										
+BC1G_00150			1353	357705	359057	-	glutamyl-tRNA(Gln) amidotransferase subunit A	1								PF01425.13,PF01425.16		
+BC1G_00151			450	359885	360334	-	predicted protein	1										
+BC1G_00152			1080	361141	362220	+	conserved hypothetical protein	1								PF00076.17,PF14259.1,PF00076.14		
+BC1G_00153			1106	363308	364413	+	conserved hypothetical protein	1										
+BC1G_00154			1115	365497	366611	+	predicted protein	1										
+BC1G_00155			634	366993	367626	+	predicted protein	1										
+BC1G_00156			359	369406	369764	+	predicted protein	1								PF04479.8		
+BC1G_00157			1839	370739	372577	+	conserved hypothetical protein	1								PF00172.10,PF00172.13		
+BC1G_00158			641	372872	373512	-	mitochondrial import inner membrane translocase subunit tim-16	1								PF03656.8,PF03656.5		
+BC1G_00159			977	373893	374869	+	protein transport protein yip1	1								PF04893.9,PF04893.12		
+BC1G_00160			1888	375359	377246	-	hypothetical protein similar to integral peroxisomal membrane protein	1								PF06398.6,PF06398.3		
+BC1G_00161			2888	378307	381194	+	hypothetical protein similar to Papd5 protein	1								PF03828.14,PF03828.11,PF01909.18,PF01909.15		
+BC1G_00162			1420	382437	383856	+	predicted protein	1										
+BC1G_00163			1265	384119	385383	-	hypothetical protein similar to chromosome 9 open reading frame 114	1								PF02598.12,PF02598.9		
+BC1G_00164			474	385893	386366	+	conserved hypothetical protein	1										
+BC1G_00165			1065	387260	388324	+	voltage-gated potassium channel subunit beta-1 channel subunit beta-1)	1								PF00248.13,PF00248.16		
+BC1G_00166			2025	388885	390909	-	predicted protein	1										
+BC1G_00167			2760	391963	394722	-	conserved hypothetical protein	1										
+BC1G_00168			684	395272	395955	+	conserved hypothetical protein	1								PF09791.4		
+BC1G_00169			818	396375	397192	-	dolichyl-phosphate mannosyltransferase polypeptide 3	1								PF08285.6,PF08285.3		
+BC1G_00170			3253	397703	400955	-	hypothetical protein similar to leucine-rich repeat containing protein	1								PF13504.1,PF13516.1,PF00560.28,PF12799.2,PF00560.25		
+BC1G_00171			1014	402739	403752	+	conserved hypothetical protein	1										
+BC1G_00172			237	404139	404375	+	predicted protein	1										
+BC1G_00173			2563	405804	408366	+	conserved hypothetical protein	1										
+BC1G_00174			1175	408736	409910	-	conserved hypothetical protein	1								PF10294.4		
+BC1G_00175			1200	415406	416605	-	conserved hypothetical protein	1										
+BC1G_00176			1226	417960	419185	+	predicted protein	1										
+BC1G_00177			751	420926	421676	-	predicted protein	1										
+BC1G_00178			640	423226	423865	+	predicted protein	1										
+BC1G_00179			416	424967	425382	-	predicted protein	1										
+BC1G_00180			198	426120	426317	-	predicted protein	1										
+BC1G_00181			5236	427785	433020	+	leptomycin B resistance protein pmd1	1								PF00664.15,PF00005.19,PF00664.18,PF00005.22		
+BC1G_00182			514	433654	434167	+	predicted protein	1										
+BC1G_00183			20599	434736	455334	+	hypothetical protein similar to XRnf12C	1										
+BC1G_00184			1606	456869	458474	-	hypothetical protein similar to transposase	1								PF03221.11,PF05225.8,PF03184.14,PF03184.11,PF05225.11,PF13358.1		
+BC1G_00185			1104	459318	460421	+	predicted protein	1										
+BC1G_00186			771	462490	463260	+	predicted protein	1								PF00075.19		
+BC1G_00187			631	464751	465381	-	hypothetical protein similar to pANL45	1								PF00484.14,PF00484.11		
+BC1G_00188			663	466334	466996	+	conserved hypothetical protein	1								PF00293.23		
+BC1G_00189			2315	467299	469613	-	predicted protein	1								PF00642.16,PF08590.5,PF08590.2,PF01713.13,PF01713.16		
+BC1G_00190			1179	471452	472630	+	TLG2-vesicle protein of	1								PF09335.3,PF09335.6		
+BC1G_00191			1724	473145	474868	-	conserved hypothetical protein	1										
+BC1G_00192			3035	477579	480613	+	conserved hypothetical protein	1										
+BC1G_00193			1168	481153	482320	-	predicted protein	1										
+BC1G_00194			792	483513	484304	+	predicted protein	1										
+BC1G_00195			1367	484975	486341	+	cystathionine gamma-synthase (O-succinylhomoserine (thiol)-lyase)	1								PF01053.15,PF01053.12		
+BC1G_00196			2172	486696	488867	-	valyl-tRNA synthetase	1								PF00133.14,PF00133.17,PF13603.1,PF08264.5,PF08264.8		
+BC1G_00197			117	489998	490114	-	predicted protein	1										
+BC1G_00198			1747	491521	493267	+	hypothetical protein similar to conserved protein	1								PF06824.3,PF06824.6		
+BC1G_00199			1823	493865	495687	-	prenylated Rab acceptor 1	1								PF03208.14,PF03208.11		
+BC1G_00200			1348	496999	498346	+	hypothetical protein similar to DNAJ domain-containing protein Erj5	1								PF00226.23,PF00226.26		
+BC1G_00201			1245	499942	501186	+	conserved hypothetical protein	1										
+BC1G_00202			1344	503916	505259	-	predicted protein	1								PF10501.4		
+BC1G_00203			493	505601	506093	+	conserved hypothetical protein	1										
+BC1G_00204			471	507502	507972	-	predicted protein	1										
+BC1G_00205			153	508639	508791	+	predicted protein	1										
+BC1G_00206			1295	509170	510464	+	isocitrate dehydrogenase subunit 1, mitochondrial precursor	1								PF00180.12,PF00180.15		
+BC1G_00207			917	511236	512152	-	hypothetical protein similar to williams Beuren syndrome chromosome region 22	1								PF08242.4,PF08241.7,PF12589.3,PF08241.4,PF13649.1		
+BC1G_00208			837	512473	513309	+	hypothetical protein similar to AT03803p	1								PF04148.5,PF04148.8		
+BC1G_00209			111	513694	513804	-	predicted protein	1										
+BC1G_00210			917	514277	515193	-	hypothetical protein similar to williams Beuren syndrome chromosome region 22	1								PF08242.4,PF08241.7,PF12589.3,PF08241.4,PF13649.1		
+BC1G_00211			477	515514	515990	+	hypothetical protein similar to tex261 protein	1								PF04148.5,PF04148.8		
+BC1G_00212			1248	517008	518255	+	hypothetical protein similar to PinX1	1								PF01585.15,PF01585.18		
+BC1G_00213			855	519650	520504	-	conserved hypothetical protein	1										
+BC1G_00214			1485	522578	524062	+	predicted protein	1										
+BC1G_00215			636	525132	525767	-	predicted protein	1										
+BC1G_00216			1452	526876	528327	-	conserved hypothetical protein	1								PF03547.10,PF03547.13		
+BC1G_00217			995	529519	530513	-	predicted protein	1										
+BC1G_00218			186	532827	533012	+	predicted protein	1										
+BC1G_00219			213	535113	535325	-	predicted protein	1										
+BC1G_00220			345	536518	536862	-	predicted protein	1										
+BC1G_00221			1275	537536	538810	+	predicted protein	1										
+BC1G_00222			198	542720	542917	-	predicted protein	1										
+BC1G_00223			1198	543203	544400	+	predicted protein	1										
+BC1G_00224			1724	544862	546585	-	predicted protein	1										
+BC1G_00225			671	549669	550339	+	predicted protein	1										
+BC1G_00226			1299	552194	553492	+	predicted protein	1										
+BC1G_00227			810	554942	555751	-	predicted protein	1										
+BC1G_00228			339	556855	557193	-	predicted protein	1										
+BC1G_00229			240	557496	557735	+	predicted protein	1										
+BC1G_00230			1302	558313	559614	-	endo-polygalacturonase precursor	1								PF00295.9,PF00295.12		
+BC1G_00231			388	560295	560682	+	predicted protein	1										
+BC1G_00232			2307	564626	566932	-	predicted protein	1										
+BC1G_00233			1958	568660	570617	-	predicted protein	1										
+BC1G_00234			628	571194	571821	-	predicted protein	1										
+BC1G_00235			951	572225	573175	+	pre-mRNA-splicing factor cwc26	1								PF09736.4		
+BC1G_00236			2285	573735	576019	-	transcription initiation factor IIF subunit alpha	1										
+BC1G_00237			3151	577192	580342	+	hypothetical protein similar to caffeine-induced death protein 1 Cid1	1										
+BC1G_00238			1848	582274	584121	+	solute carrier family 2	1								PF00083.19,PF07690.8,PF07690.11,PF00083.16		
+BC1G_00239			1873	584984	586856	-	beta-xylosidase	1								PF04616.6,PF04616.9		
+BC1G_00240			3254	587660	590913	+	polygalacturonase precursor	1								PF00295.9,PF00295.12,PF04063.6,PF04063.9		
+BC1G_00241			2653	591266	593918	-	neutral ceramidase precursor	1								PF04734.5,PF04734.8		
+BC1G_00242			201	594934	595134	-	predicted protein	1										
+BC1G_00243			1013	596015	597027	-	predicted protein	1										
+BC1G_00244			3782	597327	601108	+	lipid A export ATP-binding/permease protein msbA	1								PF00664.15,PF00005.19,PF00664.18,PF00005.22		
+BC1G_00245			2528	603067	605594	+	hypothetical protein similar to immunoreactive 87kD antigen PG92	1								PF07971.4,PF07971.7		
+BC1G_00246			658	606366	607023	-	conserved hypothetical protein	1										
+BC1G_00247			446	607288	607733	-	predicted protein	1										
+BC1G_00248			1447	610346	611792	-	laccase precursor	1								PF07732.10,PF07731.9,PF00394.17,PF07732.7,PF07731.6,PF00394.14		
+BC1G_00249			527	616095	616621	-	predicted protein	1								PF10247.4		
+BC1G_00250			391	617089	617479	-	predicted protein	1										
+BC1G_00251			1009	618162	619170	+	factor arrest protein 10	1								PF00498.18,PF00498.21		
+BC1G_00252			1826	621370	623195	+	predicted protein	1								PF00628.21		
+BC1G_00253			117	624046	624162	-	predicted protein	1										
+BC1G_00254			368	625318	625685	-	predicted protein	1										
+BC1G_00255			860	626245	627104	+	predicted protein	1										
+BC1G_00256			838	627595	628432	+	predicted protein	1										
+BC1G_00257			1679	629972	631650	-	conserved hypothetical protein	1										
+BC1G_00258			623	632602	633224	+	predicted protein	1										
+BC1G_00259			326	634216	634541	-	predicted protein	1										
+BC1G_00260			933	635683	636615	+	predicted protein	1										
+BC1G_00261			1547	637724	639270	+	predicted protein	1								PF00781.19		
+BC1G_00262			839	640387	641225	+	hypothetical protein similar to high affinity copper transporter	1								PF04145.10,PF04145.7		
+BC1G_00263			676	641982	642657	-	conserved hypothetical protein	1										
+BC1G_00264			2180	644077	646256	-	conserved hypothetical protein	1								PF01794.11,PF08030.7,PF08030.4,PF01794.14,PF08022.4,PF08022.7		
+BC1G_00265			309	646807	647115	-	predicted protein	1										
+BC1G_00266			1036	650598	651633	-	hypothetical protein similar to aldose 1-epimerase family protein	1								PF01263.12,PF01263.15		
+BC1G_00267			297	651960	652256	+	predicted protein	1										
+BC1G_00268			6030	652579	658608	-	conserved hypothetical protein	1								PF12231.3		
+BC1G_00269			1828	659890	661717	-	predicted protein	1										
+BC1G_00270			99	662075	662173	+	predicted protein	1										
+BC1G_00271			774	663462	664235	-	predicted protein	1										
+BC1G_00272			379	665037	665415	-	predicted protein	1										
+BC1G_00273			547	665746	666292	+	predicted protein	1										
+BC1G_00274			616	667680	668295	-	protein RTA1	1								PF04479.8		
+BC1G_00275			447	669513	669959	-	predicted protein	1										
+BC1G_00276			1101	671324	672424	+	predicted protein	1								PF12224.3		
+BC1G_00277			213	673055	673267	+	predicted protein	1										
+BC1G_00278			2758	675029	677786	+	suppressor protein of bem1/bed5 double mutants	1								PF00004.24,PF05496.7,PF00004.21		
+BC1G_00279			1173	678424	679596	-	predicted protein	1								PF12695.2		
+BC1G_00280			1738	681302	683039	+	esterase E4 precursor	1								PF00135.23,PF00135.20,PF07859.8		
+BC1G_00281			962	683696	684657	+	electron transfer flavoprotein subunit beta	1								PF01012.16,PF01012.13		
+BC1G_00282			1557	687037	688593	+	conserved hypothetical protein	1										
+BC1G_00283			2010	689079	691088	+	conserved hypothetical protein	1								PF02037.22,PF02037.19		
+BC1G_00284			1472	693055	694526	+	carbamoyl-phosphate synthase arginine-specific small chain	1								PF07722.8,PF00117.23,PF00117.20,PF00988.14,PF00988.17		
+BC1G_00285			648	695647	696294	+	predicted protein	1										
+BC1G_00286			1008	700813	701820	-	conserved hypothetical protein	1										
+BC1G_00287			2569	703277	705845	+	predicted protein	1										
+BC1G_00288			213	707303	707515	-	predicted protein	1										
+BC1G_00289			264	708321	708584	+	predicted protein	1										
+BC1G_00290			1877	709025	710901	+	predicted protein	1								PF06516.3,PF06516.6		
+BC1G_00291			1880	711211	713090	+	predicted protein	1								PF06516.3,PF06516.6		
+BC1G_00292			384	714183	714566	-	predicted protein	1										
+BC1G_00293			522	716833	717354	-	predicted protein	1										
+BC1G_00294			1320	718337	719656	-	protoheme IX farnesyltransferase, mitochondrial precursor	1								PF01040.10,PF01040.13		
+BC1G_00295			96	720071	720166	-	predicted protein	1										
+BC1G_00296			747	720812	721558	-	conserved hypothetical protein	1										
+BC1G_00297			2177	722188	724364	+	predicted protein	1										
+BC1G_00298			1167	725054	726220	-	sorbitol utilization protein SOU2	1								PF00106.17,PF13561.1,PF08659.2,PF08659.5,PF00106.20		
+BC1G_00299			847	727132	727978	-	short-chain dehydrogenase/reductase 3	1								PF00106.17,PF13561.1,PF08659.5,PF00106.20		
+BC1G_00300			822	728708	729529	+	predicted protein	1										
+BC1G_00301			711	731594	732304	+	predicted protein	1										
+BC1G_00302			99	732573	732671	-	predicted protein	1										
+BC1G_00303			1519	733918	735436	-	conserved hypothetical protein	1										
+BC1G_00304			150	736279	736428	-	predicted protein	1										
+BC1G_00305			638	736967	737604	-	predicted protein	1										
+BC1G_00306			1544	738053	739596	+	phospho-2-dehydro-3-deoxyheptonate aldolase	1								PF01474.8,PF01474.11		
+BC1G_00307			1332	740022	741353	-	predicted protein	1										
+BC1G_00308			1037	741739	742775	-	rhamnogalacturonan acetylesterase precursor	1								PF00657.17,PF13472.1,PF00657.14		
+BC1G_00309			415	744269	744683	-	predicted protein	1										
+BC1G_00310			2804	745578	748381	-	predicted protein	1								PF00642.16,PF00642.19,PF01485.13,PF01485.16		
+BC1G_00311			1889	749169	751057	-	conserved hypothetical protein	1								PF01753.10,PF01753.13		
+BC1G_00312			369	752160	752528	-	predicted protein	1										
+BC1G_00313			489	752985	753473	+	predicted protein	1										
+BC1G_00314			1879	753891	755769	-	predicted protein	1								PF00083.19,PF07690.8,PF07690.11		
+BC1G_00315			204	757329	757532	+	predicted protein	1										
+BC1G_00316			1241	757620	758860	+	predicted protein	1										
+BC1G_00317			1025	760200	761224	+	predicted protein	1										
+BC1G_00318			99	761524	761622	-	predicted protein	1										
+BC1G_00319			1536	762555	764090	+	predicted protein	1								PF04082.13,PF04082.10		
+BC1G_00320			345	765439	765783	-	predicted protein	1										
+BC1G_00321			3347	766359	769705	-	hypothetical protein similar to telomeric template RNA reverse transcriptase	1								PF12009.3,PF00078.22		
+BC1G_00322			5809	772214	778022	+	predicted protein	1								PF03114.10,PF00621.15,PF03114.13,PF00621.12		
+BC1G_00323			2299	779693	781991	-	abhydrolase domain-containing protein 13	1								PF03959.8,PF12697.2,PF12695.2,PF00326.16		
+BC1G_00324			387	783139	783525	+	predicted protein	1										
+BC1G_00325			428	785767	786194	+	predicted protein	1										
+BC1G_00326			555	789416	789970	+	predicted protein	1										
+BC1G_00327			384	790950	791333	-	40S ribosomal protein S28	1								PF01200.10,PF01200.13		
+BC1G_00328			1313	791915	793227	+	ATP phosphoribosyltransferase	1								PF01634.10,PF01634.13,PF08029.3,PF08029.6		
+BC1G_00329			3306	795461	798766	+	hypothetical protein similar to chorion-factor-4	1								PF01422.12,PF01424.14,PF01424.17,PF01422.9		
+BC1G_00330			126	801383	801508	+	predicted protein	1										
+BC1G_00331			1080	803305	804384	+	dihydrodipicolinate synthase	1								PF00701.14,PF00701.17		
+BC1G_00332			2421	805133	807553	-	predicted protein	1										
+BC1G_00333			1850	809174	811023	-	hypothetical protein similar to PHOG	1								PF05224.4,PF05224.7		
+BC1G_00334			2717	813834	816550	-	hypothetical protein similar to nitrogen regulatory protein OTam	1								PF04082.13,PF00172.10,PF00172.13		
+BC1G_00335			207	819221	819427	+	predicted protein	1										
+BC1G_00336			1585	820901	822485	-	hypothetical protein similar to light regulation of gametogenesis6 protein	1								PF00083.19,PF07690.8,PF07690.11		
+BC1G_00337			3738	823690	827427	-	histone transcription regulator slm9	1								PF07569.3,PF00400.24,PF09453.5,PF09453.2,PF00400.27,PF07569.6		
+BC1G_00338			1202	828073	829274	-	predicted protein	1								PF00534.15		
+BC1G_00339			165	830732	830896	+	predicted protein	1										
+BC1G_00340			1671	831192	832862	+	conserved hypothetical protein	1								PF05978.8,PF05978.11		
+BC1G_00341			310	833799	834108	-	predicted protein	1										
+BC1G_00342			3690	835707	839396	+	hypothetical protein similar to FANCM protein	1								PF04851.7,PF00271.23,PF00270.24,PF04851.10,PF00270.21,PF00271.26		
+BC1G_00343			1521	839810	841330	-	hypothetical protein similar to arsenite transporter	1								PF01758.8,PF01758.11		
+BC1G_00344			948	842170	843117	-	proteasome component PRE4	1								PF00227.21,PF00227.18		
+BC1G_00345			988	843406	844393	+	conserved hypothetical protein	1								PF07818.5,PF07818.8		
+BC1G_00346			2315	845698	848012	+	calcium/calmodulin-dependent protein kinase type II delta chain	1								PF00498.18,PF00069.17,PF07714.9,PF07714.12,PF00069.20,PF00498.21		
+BC1G_00347			2436	848889	851324	-	glucosamine-fructose-6-phosphate aminotransferase	1								PF01380.14,PF00310.13,PF01380.17,PF00310.16,PF13537.1,PF13230.1,PF13522.1		
+BC1G_00348			1335	852910	854244	-	26S protease regulatory subunit S10B	1								PF07728.9,PF00004.24,PF07724.9,PF05496.7,PF07728.6,PF00004.21		
+BC1G_00349			264	854704	854967	-	predicted protein	1										
+BC1G_00350			1539	855954	857492	+	enolase	1								PF00113.17,PF03952.8,PF00113.14,PF03952.11		
+BC1G_00351			1021	858082	859102	+	conserved hypothetical protein	1								PF08597.2,PF08597.5		
+BC1G_00352			1458	859676	861133	-	conserved hypothetical protein	1								PF13622.1		
+BC1G_00353			3629	862839	866467	+	centaurin-beta-2	1								PF01412.13,PF01412.10,PF00169.21,PF00169.24		
+BC1G_00354			1868	867883	869750	-	conserved hypothetical protein	1								PF00168.25,PF00168.22		
+BC1G_00355			168	870866	871033	+	predicted protein	1										
+BC1G_00356			198	872474	872671	-	predicted protein	1										
+BC1G_00357			638	873009	873646	-	predicted protein	1										
+BC1G_00358			447	874531	874977	-	predicted protein	1										
+BC1G_00359			120	876920	877039	-	predicted protein	1										
+BC1G_00360			1632	877581	879212	+	conserved hypothetical protein	1										
+BC1G_00361			965	879928	880892	+	predicted protein	1										
+BC1G_00362			522	881836	882357	+	predicted protein	1										
+BC1G_00363			399	883284	883682	+	predicted protein	1								PF00692.14		
+BC1G_00364			1133	884488	885620	-	pyridoxal kinase	1								PF08543.7,PF00294.19		
+BC1G_00365			1019	886416	887434	-	proliferating cell nuclear antigen	1								PF04139.8,PF02747.7,PF02747.10,PF00705.10,PF00705.13		
+BC1G_00366			1959	891317	893275	+	predicted protein	1										
+BC1G_00367			2358	894412	896769	+	conserved hypothetical protein	1										
+BC1G_00368			165	898340	898504	-	predicted protein	1										
+BC1G_00369			1832	905398	907229	+	hypothetical protein similar to nitrate transporter	1								PF07690.8,PF07690.11		
+BC1G_00370			2068	908015	910082	-	conserved hypothetical protein	1										
+BC1G_00371			342	910843	911184	-	conserved hypothetical protein	1										
+BC1G_00372			4216	912765	916980	+	hypothetical protein similar to cytoplasm protein	1								PF10540.4,PF00168.25,PF00168.22,PF05664.6		
+BC1G_00373			261	921208	921468	+	predicted protein	1										
+BC1G_00374			4347	923179	927525	+	signal transduction histidine-protein kinase barA	1								PF00512.20,PF00672.20,PF00072.16,PF02518.21,PF04508.4,PF00072.19,PF00672.17,PF00512.17,PF02518.18		
+BC1G_00375			369	928858	929226	-	predicted protein	1										
+BC1G_00376			1619	930267	931885	-	lysophospholipase precursor	1								PF01735.10,PF01735.13		
+BC1G_00377			454	932354	932807	-	predicted protein	1										
+BC1G_00378			1644	933101	934744	+	hypothetical protein similar to Fot5 transposase	1								PF00098.15,PF05225.8,PF03184.14,PF03184.11,PF05225.11,PF13358.1		
+BC1G_00379			341	934870	935210	-	predicted protein	1										
+BC1G_00380			1615	935896	937510	-	predicted protein	1										
+BC1G_00381			4025	938387	942411	-	hypothetical protein similar to RSP	1								PF00621.15		
+BC1G_00382			1336	944630	945965	+	26S proteasome non-ATPase regulatory subunit 9	1								PF13180.1		
+BC1G_00383			968	946900	947867	+	GTP-binding nuclear protein Ran-A1	1								PF00071.14,PF00071.17,PF08477.8,PF00025.16,PF08477.5		
+BC1G_00384			2329	949064	951392	+	carboxypeptidase S1	1								PF00450.17,PF00450.14		
+BC1G_00385			541	951913	952453	+	predicted protein	1								PF00046.24,PF00046.21		
+BC1G_00386			1008	953838	954845	+	conserved hypothetical protein	1										
+BC1G_00387			1794	955491	957284	+	predicted protein	1										
+BC1G_00388			1392	958507	959898	+	predicted protein	1										
+BC1G_00389			1437	960178	961614	-	hypothetical protein similar to flavin-containing monooxygenase family protein / FMO family protein	1								PF13434.1,PF13454.1,PF13738.1,PF00743.11,PF00743.14		
+BC1G_00390			591	962221	962811	-	predicted protein	1										
+BC1G_00391			1203	963654	964856	-	hypothetical protein similar to Arp2/3 complex chain sop2	1								PF00400.24,PF00400.27		
+BC1G_00392			501	965277	965777	+	U1 small nuclear ribonucleoprotein A	1										
+BC1G_00393			849	966139	966987	-	predicted protein	1								PF03987.6,PF03987.10		
+BC1G_00394			2248	967781	970028	+	hypothetical protein similar to mannosidase I	1								PF01532.15,PF01532.12		
+BC1G_00395			1913	971427	973339	+	tryptophan permease	1								PF00324.13,PF00324.16,PF13520.1		
+BC1G_00396			1852	974354	976205	+	predicted protein	1								PF00328.14		
+BC1G_00397			1962	976699	978660	-	hypothetical protein similar to cell division cycle protein	1								PF00004.24,PF13191.1,PF13401.1		
+BC1G_00398			3722	980564	984285	+	conserved hypothetical protein	1								PF00397.18,PF00397.21		
+BC1G_00399			936	985007	985942	+	hypothetical protein similar to phosphomannomutase [imported]	1								PF03332.5,PF03332.8		
+BC1G_00400			351	986332	986682	+	predicted protein	1										
+BC1G_00401			470	990592	991061	+	predicted protein	1										
+BC1G_00402			1406	991701	993106	-	hypothetical protein similar to thymine dioxygenase	1								PF03171.12,PF03171.15,PF14226.1		
+BC1G_00403			844	993458	994301	+	predicted protein	1										
+BC1G_00404			1892	998089	999980	+	ammonium transporter 1	1								PF00909.13,PF00909.16		
+BC1G_00405			180	1003244	1003423	-	predicted protein	1										
+BC1G_00406			5276	1003835	1009110	+	ATP-dependent DNA helicase hus2/rqh1	1								PF00271.23,PF00270.24,PF09382.2,PF04851.10,PF00176.18,PF00270.21,PF09382.5,PF00271.26		
+BC1G_00407			1375	1012268	1013642	-	predicted protein	1										
+BC1G_00408			4649	1016256	1020904	+	hypothetical protein similar to bud emergence protein BEM3	1								PF00620.19,PF00169.21,PF00169.24,PF00620.22		
+BC1G_00409			1225	1024018	1025242	-	hypothetical protein similar to ice nucleation protein	1								PF00722.13,PF00722.16		
+BC1G_00410			498	1026444	1026941	+	predicted protein	1										
+BC1G_00411			4141	1029372	1033512	-	predicted protein	1								PF05347.10		
+BC1G_00412			1632	1035937	1037568	-	conserved hypothetical protein	1								PF01494.14,PF01494.11		
+BC1G_00413			1493	1038740	1040232	-	conserved hypothetical protein	1								PF02458.10		
+BC1G_00414			192	1041074	1041265	-	predicted protein	1										
+BC1G_00415			3106	1041996	1045101	+	fumarylacetoacetate hydrolase domain-containing protein 2	1								PF01557.13,PF01557.10		
+BC1G_00416			1250	1045293	1046542	-	predicted protein	1										
+BC1G_00417			1398	1049075	1050472	-	hypothetical protein similar to triacylglycerol lipase	1								PF01764.17,PF01764.20		
+BC1G_00418			2749	1051269	1054017	-	autoinducer 2 sensor kinase/phosphatase luxQ	1								PF00072.16,PF02518.21,PF00072.19,PF02518.18		
+BC1G_00419			545	1054913	1055457	-	predicted protein	1										
+BC1G_00420			4015	1058302	1062316	+	synaptojanin-2	1								PF02383.10,PF02383.13,PF03372.18,PF03372.15		
+BC1G_00421			1573	1063336	1064908	+	predicted protein	1										
+BC1G_00422			1948	1065582	1067529	-	predicted protein	1										
+BC1G_00423			548	1068935	1069482	-	predicted protein	1										
+BC1G_00424			156	1071687	1071842	-	predicted protein	1										
+BC1G_00425			4618	1072991	1077608	+	protein SNQ2	1								PF00005.19,PF01061.19,PF00005.22,PF06422.4,PF06422.7,PF01061.16		
+BC1G_00426			1142	1079188	1080329	-	conserved hypothetical protein	1								PF01370.13,PF07993.4,PF05368.8,PF07993.7,PF13460.1		
+BC1G_00427			1266	1081255	1082520	-	predicted protein	1								PF01370.13,PF01370.16,PF05368.8		
+BC1G_00428			1080	1083782	1084861	+	conserved hypothetical protein	1								PF05368.8,PF05368.5,PF13460.1		
+BC1G_00429			2871	1087039	1089909	+	conserved hypothetical protein	1										
+BC1G_00430			1268	1090311	1091578	-	hypothetical protein similar to LipN	1								PF07859.8		
+BC1G_00431			461	1091957	1092417	-	conserved hypothetical protein	1										
+BC1G_00432			2120	1092521	1094640	+	3-(3-hydroxy-phenyl)propionate hydroxylase	1								PF01494.14,PF01266.16,PF01494.11,PF01266.19		
+BC1G_00433			1837	1096158	1097994	-	predicted protein	1								PF02182.9,PF02182.12		
+BC1G_00434			516	1098932	1099447	+	predicted protein	1										
+BC1G_00435			649	1101821	1102469	-	predicted protein	1										
+BC1G_00436			3432	1104141	1107572	-	kinesin light chain 3	1								PF13424.1,PF07721.6,PF00515.23,PF06985.6,PF07719.9,PF07719.12,PF07721.9,PF13374.1,PF06985.3,PF07720.4,PF13176.1,PF13181.1,PF13191.1,PF00515.20		
+BC1G_00437			3610	1108336	1111945	-	sulfite reductase	1								PF03460.9,PF01077.17,PF13806.1,PF07992.6,PF00070.19,PF03460.12,PF01077.14,PF07992.9,PF00355.18,PF00070.22,PF00355.21,PF04324.7,PF04324.10		
+BC1G_00438			123	1113016	1113138	+	predicted protein	1										
+BC1G_00439			2644	1113424	1116067	-	conserved hypothetical protein	1								PF09427.5,PF00010.21,PF00010.18,PF09427.2		
+BC1G_00440			183	1116936	1117118	+	predicted protein	1										
+BC1G_00441			477	1118254	1118730	+	predicted protein	1										
+BC1G_00442			1019	1119355	1120373	+	conserved hypothetical protein	1								PF12740.2,PF00135.23,PF07224.6,PF07859.8		
+BC1G_00443			189	1121096	1121284	+	predicted protein	1										
+BC1G_00444			8248	1122046	1130293	+	predicted protein	1										
+BC1G_00445			1361	1131143	1132503	-	UDP-glucose 4-epimerase GEPI48	1								PF13950.1,PF01370.13,PF01073.11,PF01370.16,PF07993.7		
+BC1G_00446			902	1132929	1133830	+	conserved hypothetical protein	1								PF12138.3		
+BC1G_00447			1023	1135328	1136350	-	hypothetical protein similar to endo alpha-1,4 polygalactosaminidase	1								PF03537.8		
+BC1G_00448			2797	1138233	1141029	-	conserved hypothetical protein	1										
+BC1G_00449			162	1142502	1142663	-	predicted protein	1										
+BC1G_00450			1303	1143590	1144892	+	predicted protein	1										
+BC1G_00451			6209	1147585	1153793	+	predicted protein	1								PF00534.15,PF00534.12		
+BC1G_00452			1201	1154643	1155843	+	predicted protein	1								PF04479.8,PF04479.5		
+BC1G_00453			1183	1157005	1158187	+	predicted protein	1										
+BC1G_00454			183	1158699	1158881	-	predicted protein	1										
+BC1G_00455			2096	1159820	1161915	+	hypothetical protein similar to mannosidase I	1								PF01532.15,PF01532.12		
+BC1G_00456			2233	1163041	1165273	-	hypothetical protein similar to biotin-apoprotein ligase	1								PF03099.11,PF09825.4,PF03099.14		
+BC1G_00457			225	1165649	1165873	+	predicted protein	1										
+BC1G_00458			927	1166196	1167122	+	mitochondrial genome maintenance protein MGM101	1								PF06420.7,PF06420.4		
+BC1G_00459			495	1168426	1168920	-	predicted protein	1										
+BC1G_00460			1020	1169650	1170669	+	predicted protein	1								PF12768.2		
+BC1G_00461			710	1171108	1171817	-	predicted protein	1										
+BC1G_00462			609	1172338	1172946	-	predicted protein	1										
+BC1G_00463			183	1173647	1173829	+	predicted protein	1										
+BC1G_00464			1292	1174620	1175911	+	hypothetical protein similar to serine/threonine kinase 16	1								PF00069.17,PF07714.12,PF00069.20,PF01636.18		
+BC1G_00465			1463	1176410	1177872	-	predicted protein	1										
+BC1G_00466			1495	1178595	1180089	-	eukaryotic initiation factor 4A	1								PF00271.23,PF00270.24,PF00270.21,PF00271.26		
+BC1G_00467			2093	1181209	1183301	+	F-box protein	1								PF02373.14,PF00646.25,PF02373.17,PF13621.1		
+BC1G_00468			766	1183708	1184473	-	predicted protein	1								PF09340.5,PF09340.2		
+BC1G_00469			1723	1185067	1186789	-	hypothetical protein similar to SRm160/300 splicing coactivator	1								PF01480.9,PF01480.12		
+BC1G_00470			711	1187046	1187756	+	predicted protein	1										
+BC1G_00471			1614	1189058	1190671	-	carbamoyl-phosphate synthase arginine-specific large chain	1								PF00289.17,PF02222.17,PF08443.6,PF08443.3,PF02786.12,PF13535.1,PF07478.8,PF02786.9		
+BC1G_00472			1515	1190990	1192504	-	carbamoyl-phosphate synthase arginine-specific large chain	1								PF00289.14,PF00289.17,PF02222.17,PF02786.12,PF13535.1,PF07478.8,PF02222.14,PF01071.11,PF02786.9		
+BC1G_00473			439	1194629	1195067	+	predicted protein	1										
+BC1G_00474			892	1195424	1196315	+	fumarylacetoacetate hydrolase domain-containing protein 1	1								PF01557.13,PF01557.10		
+BC1G_00475			1406	1196813	1198218	-	hypothetical protein similar to 3-hydroxyanthranilate 3,4-dioxygenase	1								PF06052.7		
+BC1G_00476			2422	1200404	1202825	-	predicted protein	1										
+BC1G_00477			2093	1203253	1205345	-	hypothetical protein similar to Npl4 protein	1								PF05021.10,PF05020.10,PF05021.7,PF05020.7		
+BC1G_00478			864	1206204	1207067	+	conserved hypothetical protein	1								PF09802.4		
+BC1G_00479			258	1207793	1208050	-	predicted protein	1										
+BC1G_00480			1226	1208583	1209808	-	conserved hypothetical protein	1										
+BC1G_00481			3265	1210998	1214262	+	conserved hypothetical protein	1								PF01535.12		
+BC1G_00482			1038	1214923	1215960	+	conserved hypothetical protein	1								PF01585.15,PF01585.18,PF13821.1		
+BC1G_00483			1578	1216245	1217822	-	phenylalanyl-tRNA synthetase alpha chain	1								PF01409.15,PF01409.12,PF00152.15		
+BC1G_00484			795	1218973	1219767	+	predicted protein	1										
+BC1G_00485			219	1220594	1220812	+	conserved hypothetical protein	1										
+BC1G_00486			1227	1221412	1222638	-	hypothetical protein similar to RNA 3'-terminal phosphate cyclase	1								PF01137.13,PF05189.5,PF05189.8,PF01137.16		
+BC1G_00487			2125	1223451	1225575	-	conserved hypothetical protein	1								PF00855.12,PF00855.9		
+BC1G_00488			6732	1226329	1233060	-	hypothetical protein similar to pre-mRNA splicing factor	1								PF00271.23,PF02889.11,PF00270.24,PF04851.10,PF00270.21,PF02889.8,PF00271.26		
+BC1G_00489			1560	1233744	1235303	+	predicted protein	1										
+BC1G_00490			1149	1235861	1237009	+	replication factor C subunit 4	1								PF00004.24,PF13177.1,PF05496.7,PF03215.10,PF00004.21		
+BC1G_00491			1763	1238094	1239856	-	predicted protein	1								PF10329.4		
+BC1G_00492			1330	1241050	1242379	+	protein phosphatase methylesterase 1	1								PF00561.12,PF12697.2,PF12695.2		
+BC1G_00493			725	1243065	1243789	+	predicted protein	1										
+BC1G_00494			123	1245521	1245643	+	predicted protein	1										
+BC1G_00495			421	1245928	1246348	-	predicted protein	1										
+BC1G_00496			925	1247302	1248226	-	predicted protein	1										
+BC1G_00497			969	1248824	1249792	+	predicted protein	1								PF10342.4		
+BC1G_00498			1081	1251341	1252421	+	meiotically up-regulated gene 14 protein	1								PF00596.13,PF00596.16		
+BC1G_00499			630	1254579	1255208	+	predicted protein	1								PF00651.26		
+BC1G_00500			573	1255494	1256066	+	predicted protein	1										
+BC1G_00501			897	1256828	1257724	+	esterase FE4 precursor	1								PF00135.23		
+BC1G_00502			575	1258094	1258668	+	predicted protein	1										
+BC1G_00503			958	1260031	1260988	+	predicted protein	1										
+BC1G_00504			2076	1262071	1264146	-	hypothetical protein similar to RNA polymerase I transcription factor	1								PF05327.3,PF05327.6		
+BC1G_00505			1123	1264897	1266019	-	nuclear transcription factor Y subunit beta	1								PF00808.18,PF00125.19,PF00808.15		
+BC1G_00506			610	1269167	1269776	-	conserved hypothetical protein	1								PF01920.12,PF01920.15		
+BC1G_00507			195	1270189	1270383	+	conserved hypothetical protein	1								PF08583.5,PF08583.1		
+BC1G_00508			439	1270750	1271188	-	conserved hypothetical protein	1								PF03647.4,PF03647.8		
+BC1G_00509			535	1271520	1272054	+	hypothetical protein similar to defender against death 1 protein	1								PF02109.8,PF02109.11		
+BC1G_00510			1170	1272348	1273517	-	golgi reassembly-stacking protein 2	1								PF04495.6,PF04495.9		
+BC1G_00511			285	1273861	1274145	-	predicted protein	1										
+BC1G_00512			897	1275640	1276536	+	trimethylguanosine synthase	1								PF13847.1,PF00398.15,PF03602.10,PF13659.1,PF09445.2,PF12847.2,PF09445.5		
+BC1G_00513			690	1276874	1277563	-	conserved hypothetical protein	1								PF04982.5,PF04982.8		
+BC1G_00514			604	1279171	1279774	+	predicted protein	1										
+BC1G_00515			618	1281660	1282277	+	predicted protein	1										
+BC1G_00516			2348	1283485	1285832	+	hypothetical protein similar to adiponectin receptor 2	1								PF03006.12,PF03006.15		
+BC1G_00517			215	1287537	1287751	-	predicted protein	1										
+BC1G_00518			165	1288758	1288922	+	predicted protein	1										
+BC1G_00519			180	1289337	1289516	+	predicted protein	1										
+BC1G_00520			303	1291060	1291362	+	predicted protein	1										
+BC1G_00521			1998	1294293	1296290	+	hypothetical protein similar to cutinase G-box binding protein	1								PF00096.18,PF12874.2,PF13894.1,PF00096.21,PF13465.1		
+BC1G_00522			2918	1297210	1300127	+	ATP-binding domain-containing protein 4	1								PF01902.12,PF01902.9		
+BC1G_00523			2448	1300403	1302850	-	DEAD-box ATP-dependent RNA helicase 40	1								PF00271.23,PF00270.24,PF00270.21,PF00271.26		
+BC1G_00524			325	1303475	1303799	+	conserved hypothetical protein	1										
+BC1G_00525			246	1304385	1304630	+	predicted protein	1										
+BC1G_00526			168	1305466	1305633	+	predicted protein	1

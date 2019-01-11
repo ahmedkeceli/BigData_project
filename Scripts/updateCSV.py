@@ -50,7 +50,7 @@ def main():
                             seq = f.readline().rstrip("\n")
                             is_nucl = True
                             for letter in seq:
-                                if letter not in set({'A', 'C', 'G', 'T'}):
+                                if letter not in set({'A', 'C', 'G', 'T', 'N'}):
                                     is_nucl = False
                             # Cas 2 : pas que des nucléotide -> protein
                             if not is_nucl:

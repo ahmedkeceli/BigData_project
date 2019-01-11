@@ -38,7 +38,6 @@ if os.path.isfile("../DSW/Outputs/"+species+"/protein_seq.csv"):
 
 if os.path.isfile("../DSW/Outputs/"+species+"/transcript_seq.csv"): 
     import transcriptCSVtoSQL
-print(os.getcwd())
 
 
 

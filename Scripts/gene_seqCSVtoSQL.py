@@ -19,7 +19,7 @@ with open("../DSW/Outputs/" + espece + "/gene_seq.csv",'r') as gene_file:
 		for i in range(0,2):
 			#if ( (i != 1) or (i !=2) or (i !=3) or (i !=6)) :
 			LIST[i]="'" + LIST[i] + "'"
-		gene_table.write("INSERT INTO gene (Nom, Sequence) VALUES (")
+		gene_table.write("INSERT INTO gene (ID, Sequence) VALUES (")
 		gene_table.write(",".join([LIST[0]] + [LIST[1]]) + ");\n")
 		#gene_table.write([LIST[0] + LIST[1] + [LIST[2] + LIST[3] + LIST[3] + LIST[3] + LIST[3] + LIST[3:9]) + ");\n")
 		line = gene_file.readline()

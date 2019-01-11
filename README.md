@@ -1,19 +1,15 @@
 # BigData_project
-
-##############################################################################################################################
                               TOOL TO CREATE DYNAMIC DATABASES FROM FASTA FILES FOR WEB INTERFACE
-##############################################################################################################################
 
-##################################
+
             PRÉ-REQUIS                       
-##################################
+
 
   - MYSQL doit être installé et peut être lancé dans le Terminal
   - Votre session MYSQL est de la forme : mysql -u root (le mot de passe est vide)
 
-##################################
             LANCEMENT                      
-##################################
+
 
 Dans un premier temps ouvrir votre Terminal et placez vous dans le répertoire que vous souhaitez.
 Lancer la commande suivante:
@@ -28,9 +24,8 @@ Une fois que le téléchargement est terminé, lancer la commande suivante vous 
 
 Vous êtes maintenant prêt à créer votre Base de données.
 
-##################################
         Création de la BD                      
-##################################
+
 
   - PRÉ-REQUIS
     - Avoir tous vos fichiers .fasta et .txt
@@ -44,9 +39,8 @@ Par exemple:
   
   python Scripts/master.py Botrytis keceli/Desktop/Botrytis/gene.fasta keceli/Desktop/Botrytis/prot.fasta keceli/Desktop/Botrytis/contig.fasta keceli/Desktop/Botrytis/trans.fasta keceli/Desktop/Botrytis/summary_gene.fasta
 
-##################################
        Visualiser de la BD                      
-##################################
+
 
 Maintenant que vous avez créé votre Base de donnée vous pouvez vous connecter à mysql est observer votre Base de donnée liée à l'espèce.
   

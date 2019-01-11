@@ -31,7 +31,7 @@ Création de la BD
   
  Pour créer votre BD, il vous faut entrer la commande suivante
   
-  python Scripts/master.py <nom_espèce_à_ajouter> <path/to/file1.FASTA> <path/to/file2.FASTA> ... <path/to/fileN.FASTA>
+    python Scripts/master.py <nom_espèce_à_ajouter> <path/to/file1.FASTA> <path/to/file2.FASTA> ... <path/to/fileN.FASTA>
 
 Par exemple:
   Créer une Base de donnée spécifique à l'éspèce Botrytis Cinerea
